@@ -5,6 +5,7 @@ Figma
 
 Верстка
 
-![image](https://github.com/ScherbakovM/html-css-hw-three/assets/109952823/1d3f85fe-6307-489b-b665-e94bb765b1db)
+![image](https://github.com/ScherbakovM/html-css-hw-three/assets/109952823/88167be8-43b1-450d-98a4-1ab2f005a206)
+
 
 
